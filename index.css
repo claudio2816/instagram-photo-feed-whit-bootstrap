@@ -1,0 +1,20 @@
+body{
+    margin: auto 40px;
+    background-color: white;
+    padding: 50px;}
+
+.container{
+    background-color: white;
+    margin: 0px;
+    padding: 0px;
+}
+.cuadritos{
+    background-color: gainsboro;
+    margin: auto;
+}
+.row{
+    margin: auto;
+}
+.right{
+    float: right;
+}
